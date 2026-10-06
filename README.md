@@ -1,4 +1,4 @@
-## Bottom Navigation 2025 – Jetpack Compose
+## Bottom Navigation – Jetpack Compose
 
 I have created this Jetpack Compose demo to showcase a simple yet practical bottom navigation app using Material 3. It includes multiple screens, where each screen can navigate to a detail screen while passing data through navigation arguments.
 
